@@ -2,8 +2,11 @@
 
 > 在 Mac（Apple Silicon / Intel 通用）上，用 **UTM** 跑一个 Linux 虚拟机，把**大疆 4G 模块（1 代，本质移远 Quectel EG25-G）**的 USB 身份从大疆私有 `2ca3:4006` **永久改成移远 Quectel EC25 的 `2C7C:0125`**，并在该 Linux 里一键部署 **vohive** 短信/网络/eSIM 管理平台的全套步骤。
 
-## 视频教程 
-### [Youtube视频](https://youtu.be/PZRkoggXFco)
+## 视频教程
+
+[![大疆 4G 模块在 Mac 上部署 VoHive 视频教程](https://img.youtube.com/vi/PZRkoggXFco/hqdefault.jpg)](https://youtu.be/PZRkoggXFco)
+
+点击上方缩略图观看 YouTube 视频教程。
 
 ## 这个仓库做什么
 
